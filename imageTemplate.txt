@@ -1,0 +1,9 @@
+
+        <div class="p-1">
+          <div class="overflow-hidden h-full">
+            <a href="Your Link" data-fancybox="gallery">
+              <img alt="" class="block w-full h-full object-cover object-center opacity-0 animate-fade-in transition duration-500 transform scale-100 hover:scale-110" 
+              src="Your Link" />
+            </a>
+          </div>
+        </div>
